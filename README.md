@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/gzqccnu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gzqccnu&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gzqccnu&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/gzqccnu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzqccnu&layout=compact" />
