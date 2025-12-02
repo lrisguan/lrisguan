@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://beautiful-github-homepage.vercel.app/api?username=gzqccnu&hide_title=true&show_icons=true&include_all_commits=true)
+![](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=gzqccnu&hide_title=false&layout=compact&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gzqccnu&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gzqccnu&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gzqccnu&theme=transparent)
