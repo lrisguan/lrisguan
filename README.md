@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**gzqccnu/gzqccnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lrisguan/lrisguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://beautiful-github-homepage.vercel.app/api?username=gzqccnu&hide_title=true&show_icons=true&include_all_commits=true)
-![](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=gzqccnu&hide_title=false&layout=compact&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gzqccnu&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gzqccnu&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gzqccnu&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gzqccnu&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gzqccnu&theme=transparent&utcOffset=8)
+![](https://beautiful-github-homepage.vercel.app/api?username=lrisguan&hide_title=true&show_icons=true&include_all_commits=true)
+![](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=lrisguan&hide_title=false&layout=compact&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrisguan&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lrisguan&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lrisguan&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lrisguan&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lrisguan&theme=transparent&utcOffset=8)
