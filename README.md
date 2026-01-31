@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Lris Guan a student interested in low-level systems and AI engineering.
+
 <!--
 **lrisguan/lrisguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://beautiful-github-homepage.vercel.app/api?username=lrisguan&hide_title=true&show_icons=true&include_all_commits=true)
-![](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=lrisguan&hide_title=false&layout=compact&count_private=true)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 GitHub Overview
+
+<img src="https://beautiful-github-homepage.vercel.app/api?username=lrisguan&hide_title=true&show_icons=true&include_all_commits=true" width="100%" />
+<img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=lrisguan&hide_title=false&layout=compact&count_private=true" width="100%" />
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛠️ Tech Stack
 
@@ -50,6 +61,11 @@ Here are some ideas to get you started:
 
 #### DevOps & Containerization
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrisguan&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lrisguan&theme=transparent)
